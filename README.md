@@ -21,6 +21,7 @@ I build cross-platform mobile applications and scalable backend systems, with a 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2D3748?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-2D3748?style=flat&logo=mongoose&logoColor=white)
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
