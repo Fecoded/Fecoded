@@ -57,6 +57,7 @@ A modular hospital management platform designed for real-world healthcare operat
 ## 📝 Latest Writing
 
 - **[Securing Your React Native App with FreeRasp](https://dev.to/fecoded)** — A practical guide to RASP implementation in fintech mobile apps
+- **[NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)**
 - *More articles coming soon on NestJS architecture, Prisma patterns, and React Native performance*
 
 ---
